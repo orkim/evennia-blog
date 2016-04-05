@@ -2,6 +2,7 @@ Title: Getting Back To My Roots
 Date: January 6, 2016
 Author: orkim
 Category: Evennia
+Tags: mud
 
 It's a new year and time to do something new. Er, something old? Well either
 way, I want to document my journey getting back into Evennia. If you're not

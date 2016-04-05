@@ -2,7 +2,7 @@ Title: Lay of the Land
 Date: January 11, 2016
 Author: orkim
 Category: Evennia
-Status: Draft
+Tags: mud
 
 ## Current Status
 

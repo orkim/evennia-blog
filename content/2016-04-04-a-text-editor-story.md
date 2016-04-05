@@ -1,7 +1,8 @@
 Author: orkim
 Date: April 4, 2016
 Title: A Text Editor Story
-Status: Draft
+Category: How-to
+Tags: vim, neovim, nvim, linux
 
 ## Getting started with Vim.
 
