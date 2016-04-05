@@ -1,15 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = u'orkim'
 SITENAME = u'Random Ramblings'
-SITEURL = 'http://6khz.com/blog'
+SITEURL = os.path.dirname(os.path.realpath(__file__)) + '/output'
 
 THEME = '../pelican-themes/blueidea'
 
 PATH = 'content'
-OUTPUT_PATH = '../6khz.com/blog'
+OUTPUT_PATH = 'output'
 
 TIMEZONE = 'US/Central'
 
@@ -35,4 +36,4 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
